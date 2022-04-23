@@ -54,7 +54,7 @@ class Bot(Client):
                 self.LOGGER(__name__).warning(f"Please Double check the FORCE_SUB_CHANNEL3 value and Make sure Bot is Admin in channel with Invite Users via Link Permission, Current Force Sub Channel Value: {FORCE_SUB_CHANNEL3}")
                 self.LOGGER(__name__).info("\nBot Stopped. Join https://t.me/pantekyks for support")
                 sys.exit()
-       if FORCE_SUB_CHANNEL4:
+        if FORCE_SUB_CHANNEL4:
             try:
                 link = await self.export_chat_invite_link(FORCE_SUB_CHANNEL4)
                 self.invitelink4 = link
