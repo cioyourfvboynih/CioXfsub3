@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Keyyasst/KeyyXfsub3",
+  "repository": "https://github.com/Keyyasst/KeyyXfsub4",
   "logo": "https://telegra.ph/file/a15a60f470db9fb21d2e3.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -38,6 +38,10 @@
       "value": "-1001648395188"
     },
     "FORCE_SUB_CHANNEL3":{
+      "description": "id of the channel or group, if you want enable force sub feature else put 0",
+      "value": "-1001698911436"
+    },
+    "FORCE_SUB_CHANNEL4":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
       "value": "-1001698911436"
     },
