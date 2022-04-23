@@ -6,8 +6,8 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/ReyyNada/Reyy-XFsub-Bot2",
-  "logo": "https://telegra.ph/file/15078bdadfbab27d4847b.jpg",
+  "repository": "https://github.com/Keyyasst/KeyyXfsub3",
+  "logo": "https://telegra.ph/file/a15a60f470db9fb21d2e3.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "2057503764"
+      "value": "1731365899"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
