@@ -11,7 +11,7 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": ""
+      "value": "5383149225:AAF839Ea8353v3MGCoJFaAFIwM0sJ4GUWUo"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
@@ -19,27 +19,27 @@
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "9781389"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "97f983d110e69a2b38246d5d36ca1282"
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-100"
+      "value": "-1001762239815"
     },
     "FORCE_SUB_CHANNEL1":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "-1001573832611"
     },
     "FORCE_SUB_CHANNEL2":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "-1001648395188"
     },
     "FORCE_SUB_CHANNEL3":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "-1001698911436"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
