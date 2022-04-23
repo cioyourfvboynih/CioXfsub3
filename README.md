@@ -1,7 +1,7 @@
 # ***FILE-SHARING***
 
 
-**NI KONTOL BUAT ELU TAPI CUMAN 2 BUTTON**
+**NI KONTOL BUAT ELU TAPI CUMAN 3 BUTTON**
 
 ### **MINIMAL KALO FORK KASI BINTANG YA ANJG**
 ### ***KALO KALIAN GAPAHAM***
@@ -10,15 +10,15 @@
 
 
 #### ***DEPLOY TO***
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ReyyNada/Reyy-XFsub-Bot2"> <img src="https://img.shields.io/badge/Web%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Keyyasst/KeyyXfsub3"> <img src="https://img.shields.io/badge/Web%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=UmV5eU5hZGEvUmV5eS1YRnN1Yi1Cb3QyIG1haW4"> <img src="https://img.shields.io/badge/Bot%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## ❤️Follow Me :
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <p align="center"> 
-    <a href="https://t.me/yagaesyakkk" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
-    <a href="https://t.me/myIchigoEX" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
+    <a href="https://t.me/akspaste" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
+    <a href="https://t.me/mfbyh" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
     <a href="https://instagram.com/d.wrdna" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -51,3 +51,4 @@
 * `FORCE_SUB_MESSAGE`Optional:Force sub message of bot, use HTML and Fillings
 * `FORCE_SUB_CHANNEL1` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
 * `FORCE_SUB_CHANNEL2` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
+* `FORCE_SUB_CHANNEL3` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
