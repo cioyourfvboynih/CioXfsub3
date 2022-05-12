@@ -1,11 +1,11 @@
 # ***FILE-SHARING***
 
 
-**NI KONTOL BUAT ELU TAPI CUMAN 4 BUTTON**
+**NI KONTOL BUAT ELU TAPI CUMAN 6 BUTTON**
 
 ### **MINIMAL KALO FORK KASI BINTANG YA ANJG**
 ### ***KALO KALIAN GAPAHAM***
-<p align="center"><a href="https://www.telegram.dog/pantekyks"> <img src="https://img.shields.io/badge/TEKAN%20INI%20KONTOL-Green?style=for-the-badge&logo=KONTOL" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://www.telegram.dog/whycio"> <img src="https://img.shields.io/badge/TEKAN%20INI%20KONTOL-Green?style=for-the-badge&logo=KONTOL" width="220" height="38.45"/></a></p>
 
 
 
@@ -17,8 +17,8 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <p align="center"> 
-    <a href="https://t.me/akspaste" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
-    <a href="https://t.me/mfbyh" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
+    <a href="https://t.me/whycio" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
+    <a href="https://t.me/cioyourfvboy" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
     <a href="https://instagram.com/d.wrdna" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
