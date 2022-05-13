@@ -52,3 +52,7 @@
 * `FORCE_SUB_CHANNEL1` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
 * `FORCE_SUB_CHANNEL2` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
 * `FORCE_SUB_CHANNEL3` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
+* `FORCE_SUB_CHANNEL4` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
+* `FORCE_SUB_CHANNEL5` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
+* `FORCE_SUB_CHANNEL6` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
+
