@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/cioyourfvboynih/CioXfsub6",
+  "repository": "https://github.com/cioyourfvboynih/CioXfsub3",
   "logo": "https://telegra.ph/file/a15a60f470db9fb21d2e3.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -38,18 +38,6 @@
       "value": "-100"
     },
     "FORCE_SUB_CHANNEL3":{
-      "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "-100"
-    },
-    "FORCE_SUB_CHANNEL4":{
-      "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "-100"
-    },
-    "FORCE_SUB_CHANNEL5":{
-      "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "-100"
-    },
-    "FORCE_SUB_CHANNEL6":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
       "value": "-100"
     },
